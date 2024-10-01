@@ -1,0 +1,25 @@
+{
+    "title": "GeneRich Private Server",
+    "titleColor": "#ffffff",
+    "buttonColor": {
+        "default": "bg-orange-700",
+        "hover": "bg-orange-300"
+    },
+    "links": [
+        {
+            "title": "WhatsApp Grup",
+            "url": "https://chat.whatsapp.com/your-group-link",
+            "icon": "wa.svg"
+        },
+        {
+            "title": "Host Server",
+            "url": "https://your-host-server-link",
+            "icon": "download.svg"
+        },
+        {
+            "title": "Link Lain",
+            "url": "https://your-other-link",
+            "icon": "download.svg"
+        }
+    ]
+}
